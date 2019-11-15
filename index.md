@@ -22,8 +22,7 @@ To get started, follow these simple steps:
 
 3. Write something. To create a doc, first get inside your site (ex. HugoSite). From command-line, type `hugo new
    index.md`.
-
-  * You could also create pages such as index.html, posts/my-first-page.md, etc.
+ * You could also create pages such as index.html, posts/my-first-page.md, etc.
     There are a lot of options here, so consult the official documentation for
     more.
 
