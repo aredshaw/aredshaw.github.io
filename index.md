@@ -5,7 +5,7 @@ draft: true
 ---
 # Working with Hugo
 
-This page can be viewed as a [website](https://aredshaw.github.io), or a [GitHub README](https://github.com/aredshaw/aredshaw.github.io).
+***This page can be viewed as a [website](https://aredshaw.github.io), or a [GitHub README](https://github.com/aredshaw/aredshaw.github.io).***
 
 Hugo is one of the fastest **static site generators** available. It is also one of
 the most popular. Here are some basic instructions for setting it up on Linux.
